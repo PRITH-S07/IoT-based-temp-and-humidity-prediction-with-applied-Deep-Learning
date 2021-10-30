@@ -15,3 +15,5 @@ IoT based NodeMCU use:<br>
 https://www.ijert.org/iot-based-real-time-weather-predication-system-using-nodemcu-12-e-esp266-and-lab-view <br>
 A useful GitHub repository for temperature and humidity prediction:<br>
 https://github.com/devyash17/temperature-and-humidity-prediction-using-machine-learning <br>
+ALSO CHECK OUT THIS NEWEST LINK:<br>
+https://www.hackster.io/valentina/humidity-sensing-and-alerting-system-using-bolt-iot-70274f<br>
