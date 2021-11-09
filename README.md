@@ -18,3 +18,5 @@ https://github.com/devyash17/temperature-and-humidity-prediction-using-machine-l
 ALSO CHECK OUT THIS NEWEST LINK:<br>
 https://www.hackster.io/valentina/humidity-sensing-and-alerting-system-using-bolt-iot-70274f<br>
 https://www.boltiot.com/projects/humidity-and-temperature-monitoring-system<br>
+<br>
+The link to the code:https://colab.research.google.com/drive/11Vj68lCgcwt8aRotikQZqa-AEEqU6rjH?usp=sharing<br>
