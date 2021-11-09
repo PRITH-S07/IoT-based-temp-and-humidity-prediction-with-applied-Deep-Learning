@@ -17,3 +17,4 @@ A useful GitHub repository for temperature and humidity prediction:<br>
 https://github.com/devyash17/temperature-and-humidity-prediction-using-machine-learning <br>
 ALSO CHECK OUT THIS NEWEST LINK:<br>
 https://www.hackster.io/valentina/humidity-sensing-and-alerting-system-using-bolt-iot-70274f<br>
+https://www.boltiot.com/projects/humidity-and-temperature-monitoring-system<br>
